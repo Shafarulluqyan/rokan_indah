@@ -1,35 +1,42 @@
 [
-    {
-      "username": "luqy",
-      "email": "luqy@gmail.com",
-      "password": "luqy",
-      "role": "admin",
-      "phoneNumber": "123456789",
-      "address": "123 Main St, City, Country"
-    },
-    {
-      "username": "azka",
-      "email": "azka@gmail.com",
-      "password": "aka",
-      "role": "customer",
-      "phoneNumber": "987654321",
-      "address": "456 Elm St, Town, Country"
-    },
-    {
-      "username": "habib",
-      "email": "habib@gmail.com",
-      "password": "habib",
-      "role": "admin",
-      "phoneNumber": "789012345",
-      "address": "789 Oak St, Village, Country"
-    },
-    {
-        "username": "dira",
-        "email": "dira@gmail.com",
-        "password": "dira",
-        "role": "customer",
-        "phoneNumber": "789012345",
-        "address": "789 Oak St, Village, Country"
-      }
-  ]
-  
+  {
+    "username": "luqy",
+    "email": "luqy@gmail.com",
+    "password": "luqy",
+    "role": "admin",
+    "phoneNumber": "123456789",
+    "address": "123 Main St, City, Country",
+    "createdAt": "2024-06-26T10:00:00Z",
+    "updatedAt": "2024-06-26T10:00:00Z"
+  },
+  {
+    "username": "azka",
+    "email": "azka@gmail.com",
+    "password": "aka",
+    "role": "customer",
+    "phoneNumber": "987654321",
+    "address": "456 Elm St, Town, Country",
+    "createdAt": "2024-06-26T10:00:00Z",
+    "updatedAt": "2024-06-26T10:00:00Z"
+  },
+  {
+    "username": "habib",
+    "email": "habib@gmail.com",
+    "password": "habib",
+    "role": "admin",
+    "phoneNumber": "789012345",
+    "address": "789 Oak St, Village, Country",
+    "createdAt": "2024-06-26T10:00:00Z",
+    "updatedAt": "2024-06-26T10:00:00Z"
+  },
+  {
+    "username": "dira",
+    "email": "dira@gmail.com",
+    "password": "dira",
+    "role": "customer",
+    "phoneNumber": "789012345",
+    "address": "789 Oak St, Village, Country",
+    "createdAt": "2024-06-26T10:00:00Z",
+    "updatedAt": "2024-06-26T10:00:00Z"
+  }
+]
