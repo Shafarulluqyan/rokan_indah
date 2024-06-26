@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Rendang",
+    "description": "Daging sapi dimasak dengan santan dan rempah-rempah hingga kering",
+    "price": 50000,
+    "MainImg": "https://d1vbn70lmn1nqe.cloudfront.net/prod/wp-content/uploads/2023/07/31040437/ini-resep-bumbu-rendang-daging-sapi-untuk-acara-spesial.jpg",
+    "createdAt": "2024-06-26T10:00:00Z",
+    "updatedAt": "2024-06-26T10:00:00Z"
+  },
+  {
+    "id": 2,
+    "name": "Ayam Bakar",
+    "description": "Ayam yang bakar dengan bumbu sederhana dan disajikan dengan sambal",
+    "price": 35000,
+    "MainImg": "https://www.masakapahariini.com/wp-content/uploads/2019/07/ayam-bakar-hitam-manis.jpg",
+    "createdAt": "2024-06-26T10:00:00Z",
+    "updatedAt": "2024-06-26T10:00:00Z"
+  },
+  {
+    "id": 3,
+    "name": "Ikan Asam Padeh",
+    "description": "Ikan dimasak dengan kuah asam dan pedas khas Minang, menggunakan bumbu tradisional yang kaya akan rempah-rempah, memberikan rasa yang segar dan menggugah selera.",
+    "price": 40000,
+    "MainImg": "https://awsimages.detik.net.id/community/media/visual/2022/08/07/resep-ikan-kuah-asam-pedas_43.jpeg?w=1200",
+    "createdAt": "2024-06-26T10:00:00Z",
+    "updatedAt": "2024-06-26T10:00:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Dendeng Balado",
+    "description": "Irisan tipis daging sapi yang digoreng kering dan dibalut dengan sambal balado",
+    "price": 48000,
+    "MainImg": "https://asset.kompas.com/crops/hn8rHYisgVkj5JSznC7YyW_JNpQ=/38x72:838x605/750x500/data/photo/2022/04/02/6247cfd4495ba.jpg",
+    "createdAt": "2024-06-26T10:00:00Z",
+    "updatedAt": "2024-06-26T10:00:00Z"
+  }
+]
